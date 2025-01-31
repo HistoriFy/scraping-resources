@@ -11,7 +11,7 @@ Compiled by Rathore aka HistoriFy from various sources. Big thanks to Luma and t
 - [Antoine Vastel's Blog](https://antoinevastel.com/) (Works at DataDome)
 - [Detecting Residential Proxy Networks](https://rasbora.dev/blog/detecting-residential-proxy-networks)
 - [Reddit thread from the creator of reCAPTCHA](https://www.reddit.com/r/programming/comments/10755l2/reverse_engineering_tiktoks_vm_obfuscation_part_2/j3lwqbc/?context=3)
-- [Picasso: Lightweight Device Class Fingerprinting for Web Clients](https://example.com) *(No direct link provided)*
+- [Picasso: Lightweight Device Class Fingerprinting for Web Clients](https://research.google/pubs/picasso-lightweight-device-class-fingerprinting-for-web-clients/)
 - [Fingerprint.js Blog: Audio Fingerprinting](https://fingerprint.com/blog/audio-fingerprinting/)
 - [Dark Knowledge](https://github.com/prescience-data/dark-knowledge) (Outdated but still helpful)
 - [Puppeteer Extra Wiki](https://github.com/berstend/puppeteer-extra/wiki) (Outdated but useful)
@@ -49,7 +49,7 @@ Compiled by Rathore aka HistoriFy from various sources. Big thanks to Luma and t
 - [Steak Enthusiast](https://steakenthusiast.github.io/)
 - [Trickster.dev](https://www.trickster.dev/post/)
 - [JavaScript Deobfuscation using Shift AST](https://www.youtube.com/watch?v=YqmmFXVAEkA&list=PLoZcQiQmH1DVBhRKFHMP9INlaP_uBVDkS)
-- [Bulldozer](https://example.com) *(No direct link provided)*
+- [Bulldozer](https://github.com/ceres-c/bulldozer)
 - [Babel Documentation](https://babeljs.io/docs/)
 - *Surreptitious Software* by Christian Collberg (ISBN: 0321549252)
 
